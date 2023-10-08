@@ -3,7 +3,7 @@
 - 🎓 Currently studying Computer Science at Universidade Federal de Viçosa
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=l4ndrade&show_icons=true&theme=dracula" alt="Leonardo Porto's GitHub Stats" width="413"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4ndrade&layout=compact&theme=dracula" alt="Top Langs" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=l4ndrade&show_icons=true&theme=dracula" alt="Leonardo Porto's GitHub Stats" width="413"/> 
 
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/l4ndrade/">
